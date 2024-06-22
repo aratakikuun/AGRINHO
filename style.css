@@ -27,7 +27,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: linear-gradient(to right, #235938, #235938);
+    background: linear-gradient(to right, #235938, #122c1c);
     height: 4.6875rem;
     padding: 1rem;
     
@@ -51,7 +51,7 @@
   }
   
   .menu a:hover {
-    background: var(--royal-blue-dark);
+    background: var(--white);
   }
   
   .label-menu,
@@ -60,7 +60,7 @@
   }
   
   .titulo {
-    color: #000046;
+    color: #000000;
     font-weight: bold;
     font-size: 3.5rem;
     margin-left: 2rem;
@@ -70,7 +70,7 @@
   
   .titulo-geral {
     font-size: 2.5rem;
-    color: #000046;
+    color: #000000;
     font-weight: bold;
     text-align: center;
     margin-top: 1.5rem;
@@ -78,7 +78,7 @@
   
   .titulo-secundario {
     font-size: 1.5rem;
-    color: #ff0000;
+    color: #000000;
     font-weight: bold;
     text-align: center;
     
@@ -109,7 +109,7 @@
   
   .paragrafo-principal {
     font-size: 1.3rem;
-    color: #ff0000;
+    color: #000000;
     font-weight: bold;
     text-align: center;
   }
@@ -163,7 +163,7 @@
   }
   
   .btn-assinar:hover {
-    background-color: #ff0000;
+    background-color: #000000;
     transform: scale(1.05);
   }
   
@@ -216,7 +216,7 @@
   
   /* Estilo do rodapé */
   .rodape {
-    background: linear-gradient(to right, #000046, #1CB5E0);
+    background: linear-gradient(to right, #235938, #122c1c);
     color: white;
     text-align: center;
     padding: 10px;
@@ -242,7 +242,7 @@
       position: absolute;
       top: 4.6875rem;
       left: 0;
-      background: linear-gradient(to right, #000046, #1CB5E0);
+      background: linear-gradient(to right, #235938, #122c1c);
       text-align: center;
       width: 100%;
       height: 0;
