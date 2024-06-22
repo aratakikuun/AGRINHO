@@ -51,7 +51,7 @@
   }
   
   .menu a:hover {
-    background: var(--royal-blue-dark);
+    background: var(--white);
   }
   
   .label-menu,
@@ -60,7 +60,7 @@
   }
   
   .titulo {
-    color: #000046;
+    color: #000000;
     font-weight: bold;
     font-size: 3.5rem;
     margin-left: 2rem;
@@ -70,7 +70,7 @@
   
   .titulo-geral {
     font-size: 2.5rem;
-    color: #000046;
+    color: #000000;
     font-weight: bold;
     text-align: center;
     margin-top: 1.5rem;
@@ -78,7 +78,7 @@
   
   .titulo-secundario {
     font-size: 1.5rem;
-    color: #ff0000;
+    color: #000000;
     font-weight: bold;
     text-align: center;
     
@@ -109,7 +109,7 @@
   
   .paragrafo-principal {
     font-size: 1.3rem;
-    color: #ff0000;
+    color: #000000;
     font-weight: bold;
     text-align: center;
   }
@@ -145,7 +145,7 @@
   .btn-assinar {
     display: block;
     margin: 0 auto;
-    background-color: #ff0000;
+    background-color: #000000;
     color: var(--white);
     font-family: var(--fonte-principal);
     padding: 10px 20px;
@@ -163,7 +163,7 @@
   }
   
   .btn-assinar:hover {
-    background-color: #ff0000;
+    background-color: #000000;
     transform: scale(1.05);
   }
   
