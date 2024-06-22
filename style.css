@@ -2,11 +2,7 @@
 
 :root {
     font-size: 16px;
-    --royal-blue-light: #235938;
-    --royal-blue-dark: #235938;
-    --white: #fff;
-    --black: #000000;
-    --background: #e2e3e9;
+    --background: #235938;
     --fonte-principal: "Quattrocento Sans";
   }
   
@@ -18,7 +14,7 @@
   
   body {
     font-family: "Quattrocento Sans";
-    background: linear-gradient(to right, #235938, #e4e4e4);
+    background: linear-gradient(to right, #fafafa, #e4e4e4);
    }
   
   /* MENU HAMBURGER */
