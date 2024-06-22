@@ -5,7 +5,7 @@
   }
   
   body {
-    background: linear-gradient(to right, #000046, #1CB5E0);
+    background: linear-gradient(to right, #235938, #122c1c);
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -66,14 +66,14 @@
   .form textarea:hover,
   .form textarea:focus {
     outline: none;
-    border-color: #09d;
-    box-shadow: 0 0 0 3px #4dc8ff;
+    border-color: #2e6141;
+    box-shadow: 0 0 0 3px #2e6141;
   }
   
   .form button, .btn-voltar-inicio {
     display: block;
     padding: 1rem;
-    background:  #000046;
+    background:  #235938;
     color: #fff;
     font: inherit;
     text-transform: uppercase;
@@ -88,7 +88,7 @@
 .btn-voltar-inicio:hover,
 .btn-voltar-inicio:focus {
   outline: none;
-  background: #09d;
+  background: #2e6141;
 }
 
   .btn-voltar-inicio a {
