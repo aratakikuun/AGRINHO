@@ -14,7 +14,7 @@
   
   body {
     font-family: "Quattrocento Sans";
-    background: linear-gradient(to right, #fafafa, #e4e4e4);
+    background: linear-gradient(to right, #ffffff, #ffffff);
    }
   
   /* MENU HAMBURGER */
@@ -27,7 +27,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: linear-gradient(to right, #235938, #e4e4e4);
+    background: linear-gradient(to right, #235938, #235938);
     height: 4.6875rem;
     padding: 1rem;
     
