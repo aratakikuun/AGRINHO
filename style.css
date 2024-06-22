@@ -2,8 +2,8 @@
 
 :root {
     font-size: 16px;
-    --royal-blue-light: #404eed;
-    --royal-blue-dark: #3946d4;
+    --royal-blue-light: #235938;
+    --royal-blue-dark: #235938;
     --white: #fff;
     --black: #000000;
     --background: #e2e3e9;
@@ -18,7 +18,7 @@
   
   body {
     font-family: "Quattrocento Sans";
-    background: linear-gradient(to right, #A1FFCE, #FAFFD1);
+    background: linear-gradient(to right, #235938, #e4e4e4);
    }
   
   /* MENU HAMBURGER */
@@ -31,7 +31,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: linear-gradient(to right, #000046, #1CB5E0);
+    background: linear-gradient(to right, #235938, #e4e4e4);
     height: 4.6875rem;
     padding: 1rem;
     
