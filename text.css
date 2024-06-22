@@ -67,7 +67,7 @@
   .form textarea:focus {
     outline: none;
     border-color: #000000;
-    box-shadow: 0 0 0 3px #2e6141;
+    box-shadow: 0 0 0 3px #000000;
   }
   
   .form button, .btn-voltar-inicio {
