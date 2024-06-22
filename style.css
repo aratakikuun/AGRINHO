@@ -30,6 +30,7 @@
     background: linear-gradient(to right, #235938, #122c1c);
     height: 4.6875rem;
     padding: 1rem;
+    color: #e4e4e4;
     
   }
   
@@ -145,7 +146,7 @@
   .btn-assinar {
     display: block;
     margin: 0 auto;
-    background-color: #ff0000;
+    background-color: #000000;
     color: var(--white);
     font-family: var(--fonte-principal);
     padding: 10px 20px;
