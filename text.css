@@ -73,7 +73,7 @@
   .form button, .btn-voltar-inicio {
     display: block;
     padding: 1rem;
-    background:  #235938;
+    background:  #000000;
     color: #fff;
     font: inherit;
     text-transform: uppercase;
@@ -88,7 +88,7 @@
 .btn-voltar-inicio:hover,
 .btn-voltar-inicio:focus {
   outline: none;
-  background: #2e6141;
+  background: #000000;
 }
 
   .btn-voltar-inicio a {
